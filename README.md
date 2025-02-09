@@ -10,6 +10,9 @@ This project is a simple blog application built with **React**, **Redux Toolkit 
 - Use React Router for navigation
 - Implement Redux Toolkit Query for API management
 
+## Live Demo
+-> https://react-rtk-query-app.netlify.app/
+
 ## Installation
 1. Clone the repository [https://github.com/RofixWork/react-rtk-query-mini-app.git]
 2. Install dependencies using `npm install`
